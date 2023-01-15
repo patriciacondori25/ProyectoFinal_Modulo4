@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916713107635",
+    "project_id": "appconferencia-c6875",
+    "storage_bucket": "appconferencia-c6875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916713107635:android:9447da2e5f0e9d28ae80c6",
+        "android_client_info": {
+          "package_name": "com.example.appconferencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916713107635-pjqlatiliiuntks3i73k8mcqg2e2j355.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJ8cwxZuggPHDZ5LnRxqdbHTxyKQN8ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916713107635-pjqlatiliiuntks3i73k8mcqg2e2j355.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
